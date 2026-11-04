@@ -1,0 +1,12 @@
+# Eclipse workspace metadata
+.metadata/
+
+# Compiled output
+bin/
+*.class
+
+# Archives / build artifacts
+*.zip
+
+# Office lock files
+~$*
